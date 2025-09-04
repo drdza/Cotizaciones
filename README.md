@@ -1,4 +1,4 @@
-### Cotizaciones de Soluciones Tecnologicas
+### Cotizaciones de Soluciones Tecnológicas
 
 
 **by Danny Rodríguez**
