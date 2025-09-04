@@ -85,4 +85,4 @@
 
 ---
 
-*¿Listo para transformar tu idea en realidad? [Abre un issue](https://github.com/tu-usuario/tu-repositorio/issues) para comenzar la conversación.*
+*¿Listo para transformar tu idea en realidad? [Abre un issue](https://github.com/drdza/cotizaciones/issues) para comenzar la conversación.*
